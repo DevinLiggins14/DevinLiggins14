@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devin Liggins</h1>
+<h1 align="center">Hi 👋, I'm Devin </h1>
 <h3 align="center">A Linux Engineer</h3>
 
 - 👨‍💻 All of my projects are available at [github.com/DevinLiggins14](https://github.com/DevinLiggins14)
