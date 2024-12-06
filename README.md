@@ -3,12 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [github.com/DevinLiggins14](https://github.com/DevinLiggins14)
 
-- 📫 How to reach me **devinliggins56@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/devin-liggins/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="40" height="40" /></a>
-</p>
+- 📫 How to reach me devinliggins56@gmail.com
+- 🤝 [Connect with me on LinkedIn](https://www.linkedin.com/in/devin-liggins/) <a href="https://www.linkedin.com/in/devin-liggins/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" width="20" height="20" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="center"> 
@@ -17,7 +13,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="60" height="60"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="60" height="60"/>
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="60" height="60"/>
+  <img src="https://raw.githubusercontent.com/Thomas-George-T/Thomas-George-T/master/assets/aws.svg" alt="aws" width="60" height="60"/> 
   <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="60" height="60"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="60" height="60"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="google cloud" width="60" height="60"/>
@@ -39,5 +35,3 @@
 </ul>
 
 ---
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=devinliggins14&show_icons=true&locale=en&layout=compact" alt="devinliggins14" /></p>
