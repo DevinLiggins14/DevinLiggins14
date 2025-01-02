@@ -23,15 +23,14 @@
 
 <h3 align="left">🛠️ Featured Projects:</h3>
 <ul>
-  <li><a href="https://github.com/DevinLiggins14/AWS-Serverless-Web-Application-Deployment" target="_blank">AWS Serverless Web Application Deployment</a></li>
+  <li><a href="https://github.com/DevinLiggins14/Terraform-Jenkins-AWS-REST-API-Deployment" target="_blank">Terraform, Jenkins, and AWS REST API Deployment</a></li>
+  <li><a href="https://github.com/DevinLiggins14/Jenkins-API-Python-Data-Analysis" target="_blank">Jenkins API Python Data Analysis</a></li>
+  <li><a href="https://github.com/DevinLiggins14/GitHub-Actions-CICD-Pipeline-Python-App" target="_blank">GitHub Actions CI/CD Pipeline for Python App</a></li>
   <li><a href="https://github.com/DevinLiggins14/Prometheus-Grafana-AKS-cluster-Setup-and-Monitoring" target="_blank">Prometheus & Grafana AKS Cluster Setup and Monitoring</a></li>
-  <li><a href="https://github.com/DevinLiggins14/Jenkins-OKD-CICD-Pipline" target="_blank">Jenkins & OKD CI/CD Pipeline</a></li>
-  <li><a href="https://github.com/DevinLiggins14/Palo-Alto-Firewall-AWS-Deployment" target="_blank">Palo Alto Firewall AWS Deployment</a></li>
-  <li><a href="https://github.com/DevinLiggins14/Splunk-Cloud-Platform-Windows-Forwarder" target="_blank">Splunk Cloud Platform Windows Forwarder</a></li>
-  <li><a href="https://github.com/DevinLiggins14/Creating-and-Configuring-CloudWatch-Alarms" target="_blank">Creating and Configuring CloudWatch Alarms</a></li>
-  <li><a href="https://github.com/DevinLiggins14/LVM-Configuration-and-Management" target="_blank">LVM Configuration and Management</a></li>
+  <li><a href="https://github.com/DevinLiggins14/AWS-Serverless-Web-Application-Deployment" target="_blank">AWS Serverless Web Application Deployment</a></li>
+  <li><a href="https://github.com/DevinLiggins14/Fortigate-Firewall-AWS-Deployment" target="_blank">Fortigate Firewall AWS Deployment</a></li>
+  <li><a href="https://github.com/DevinLiggins14/OpenStack-Installation-and-Configuration" target="_blank">OpenStack Installation and Configuration</a></li>
   <li><a href="https://github.com/DevinLiggins14/SSO-implementation-for-integrated-systems" target="_blank">SSO Implementation for Integrated Systems</a></li>
-  <li><a href="https://github.com/DevinLiggins14/Configuration-Management-and-automation" target="_blank">Configuration Management and Automation</a></li>
 </ul>
 
 ---
